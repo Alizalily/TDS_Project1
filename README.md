@@ -1,7 +1,8 @@
 # TDS_Project1
 
-- I scraped data from the GitHub API to gather user information and their repositories for users based in Mumbai with over 50 followers.
+- I scraped data from the GitHub API using Python to collect information about users in Mumbai who have more than 50 followers, along with their public repositories and related statistics.
   
-- The most surprising fact I found was that many users have a significantly higher number of repositories than followers, indicating active contributions but limited visibility.
-  
-- I recommend developers focus on building their GitHub presence by engaging with the community, as it may lead to increased followers and collaboration opportunities.
+- The most interesting finding from the analysis was that many users have a high number of public repositories compared to their followers, indicating that active contributions do not always correlate with visibility within the community.
+
+- Based on my analysis, I recommend developers focus on enhancing their GitHub profiles by actively engaging with the community, contributing to open-source projects, and networking to improve their follower count and collaboration opportunities.
+
